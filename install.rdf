@@ -11,7 +11,7 @@
                em:description="Customize the browser titlebar"
                em:creator="tarakbumba"
                em:homepageURL="https://github.com/tarakbumba/title-bar-customizer-for-palemoon"
-               em:iconURL="chrome://titlebar/titlebar-logo.png"
+               em:iconURL="chrome://titlebar/skin/icon.png"
                em:optionsType="1"
                em:optionsURL="chrome://titlebar/content/options.xul">
     <em:contributor>Richard Berry titlebar@sidthemonkey.com</em:contributor>
