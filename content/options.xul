@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+<!DOCTYPE prefwindow SYSTEM "chrome://titlebar/locale/prefwindow.dtd">
+<prefwindow id="customizeTitlebarPreferences"
+						xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+						title="&prefwindow.title;"
+						style="max-width: 640px;">
+	<prefpane id="general-pane"
+ 					 	label="&prefpane.label;"
+						image="chrome://titlebar/content/titlebar-logo.png">
+		<preferences id="customizeTitlebar-preferences">
+		 	<preference id="customizeTitlebar.customTitleFormat"
+									name="extensions.customizeTitlebar.customTitleFormat"
+									type="string"/>
+		 	<preference id="customizeTitlebar.selectedTitleFormat"
+									name="extensions.customizeTitlebar.selectedTitleFormat"
+									type="string"/>
+	  </preferences>
+		<description>&chooseFormat.description;</description>
+		<groupbox>
+			<radiogroup preference="customizeTitlebar.selectedTitleFormat">
+			  <radio id="default" 
+							 label="&defaultRadio.label;"
+							 value="default"
+							 accesskey="&defaultRadio.accessKey;"
+							 selected="true"/>
+			  <radio id="page-only"
+							 label="&page-onlyRadio.label;"
+							 value="page-only"
+							 accesskey="&page-onlyRadio.accessKey;"/>
+			  <radio id="developers"
+							 label="&developersRadio.label;" 
+							 value="developers"
+							 accesskey="&developersRadio.accessKey;"/>
+			  <hbox>
+					<radio id="custom"
+								 label="&customRadio.label;"
+								 value="custom"
+								 accesskey="&customRadio.accessKey;"/>
+		  		<textbox id="customTitleFormat"
+									 preference="customizeTitlebar.customTitleFormat"
+									 onsynctopreference="com.sidthemonkey.titlebar.options.saveUnicodePreference(event)"
+									 onsyncfrompreference="com.sidthemonkey.titlebar.options.loadUnicodePreference(event)"/>
+					<menu label="&optionsMenu.label;">
+						<menupopup id="customTextPopup">
+							<menuitem label="&pageTitleMenuitem.label;" value="{pageTitle}"/>
+							<menuitem label="&currentURLMenuitem.label;" value="{currentUrl}"/>
+							<menuitem label="&domainNameMenuitem.label;" value="{domainName}"/>
+							<menuitem label="&brandMenuitem.label;" value="{brand}"/>
+							<menuitem label="&palemoonVersionMenuitem.label;" value="{palemoonVersion}"/>
+							<menuitem label="&palemoonBuildIDMenuitem.label;" value="{palemoonBuildID}"/>
+							<menuitem label="&platformVersionMenuitem.label;" value="{platformVersion}"/>
+							<menuitem label="&platformBuildIDMenuitem.label;" value="{platformBuildID}"/>
+						</menupopup>
+					</menu>
+				</hbox>
+			</radiogroup>
+		</groupbox>
+	</prefpane>
+  <script type='application/x-javascript'
+					src='chrome://titlebar/content/options.js'/>
+</prefwindow>

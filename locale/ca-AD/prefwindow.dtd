@@ -1,0 +1,20 @@
+<!ENTITY prefwindow.title "Opcions de Title Bar Customizer">
+<!ENTITY prefpane.label "General">
+<!ENTITY chooseFormat.description "Tria un format per al títol:">
+<!ENTITY defaultRadio.label "Per Defecte (Nom de la pàgina - Adreça URL)">
+<!ENTITY defaultRadio.accessKey "D">
+<!ENTITY page-onlyRadio.label "Nom de la pàgina només">
+<!ENTITY page-onlyRadio.accessKey "P">
+<!ENTITY developersRadio.label "Per a desenvolupadors/es (Nom de la pàgina - Versió de Pale Moon - Nº del llançament - Adreça URL)">
+<!ENTITY developersRadio.accessKey "F">
+<!ENTITY customRadio.label "Format personalitzat:">
+<!ENTITY customRadio.accessKey "C">
+<!ENTITY optionsMenu.label "Opcions">
+<!ENTITY pageTitleMenuitem.label "Títol de pàgina">
+<!ENTITY currentURLMenuitem.label "Adreça URL actual">
+<!ENTITY domainNameMenuitem.label "Nom del domini">
+<!ENTITY brandMenuitem.label "Marca">
+<!ENTITY palemoonVersionMenuitem.label "Versió de Pale Moon">
+<!ENTITY palemoonBuildIDMenuitem.label "ID del llançament de Pale Moon">
+<!ENTITY platformVersionMenuitem.label "Versió de la Plataforma Goanna">
+<!ENTITY platformBuildIDMenuitem.label "ID del llançament de la Plataforma Goanna">

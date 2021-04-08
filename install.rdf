@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RDF:RDF xmlns:em="http://www.mozilla.org/2004/em-rdf#" xmlns:NC="http://home.netscape.com/NC-rdf#" xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="urn:mozilla:install-manifest" em:id="title-bar-customizer@github.org" em:name="Title Bar Customizer" em:version="1.0" em:creator="tarakbumba" em:description="Customize the browser titlebar" em:homepageURL="https://github.com/tarakbumba/title-bar-customizer-for-palemoon" em:iconURL="chrome://titlebar/titlebar-logo.png" em:optionsURL="chrome://titlebar/content/options.xul">
+    <em:contributor>Richard Berry titlebar@sidthemonkey.com</em:contributor>
+    <em:contributor>Ivy Durante</em:contributor>
+    <em:contributor>Chris Neuner http://unrealstuff.bplaced.de</em:contributor>
+    <em:contributor>Leszek(teo)Zyczkowski</em:contributor>
+    <em:contributor>el_libre www.catmidia.cat</em:contributor>
+    <em:contributor>hrvoje.solc at gmail.com</em:contributor>
+    <em:targetApplication RDF:resource="rdf:#$.2hJQ1"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="rdf:#$.2hJQ1" em:id="{8de7fcbb-c55c-4fbe-bfc5-fc555c87dbc4}" em:minVersion="27.0" em:maxVersion="30.*"/>
+</RDF:RDF>

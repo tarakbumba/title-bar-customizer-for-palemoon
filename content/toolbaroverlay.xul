@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+<?xml-stylesheet href="chrome://titlebar/skin/toolbaroverlay.css" type="text/css"?>
+<!DOCTYPE overlay SYSTEM "chrome://titlebar/locale/titlebar.dtd">
+<overlay id="menuoverlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script type='application/x-javascript'
+					src='chrome://titlebar/content/utils-ubiquity.js'></script>
+  <script type='application/x-javascript'
+					src='chrome://titlebar/content/my-utils.js'></script>
+  <script type='application/x-javascript' 
+					src='chrome://titlebar/content/toolbar-overlay.js'></script>
+  <stringbundleset id="stringbundleset">
+    <stringbundle id="titlebar-strings" src="chrome://titlebar/locale/titlebar.properties"/>
+  </stringbundleset>
+  <menupopup id="menu_ToolsPopup">
+  	<menuitem label="&titlebar.label;"
+							accesskey="&titlebarSettings.accesskey;"
+							oncommand="com.sidthemonkey.titlebar.showTitlebarSettings();"/>
+  </menupopup>
+</overlay>

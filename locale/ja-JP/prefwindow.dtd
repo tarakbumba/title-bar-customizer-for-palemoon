@@ -1,0 +1,20 @@
+<!ENTITY prefwindow.title "カスタマイズ・タイトルバーのオプション">
+<!ENTITY prefpane.label "一般">
+<!ENTITY chooseFormat.description "タイトルの書式を選択します：">
+<!ENTITY defaultRadio.label "デフォルト（ページ名 - URL）">
+<!ENTITY defaultRadio.accessKey "D">
+<!ENTITY page-onlyRadio.label "ページ名のみ（ページ名）">
+<!ENTITY page-onlyRadio.accessKey "P">
+<!ENTITY developersRadio.label "開発者用（ページ名 - Pale Moonのバージョン - Pale Moonのビルド番号 - URL）">
+<!ENTITY developersRadio.accessKey "K">
+<!ENTITY customRadio.label "カスタム書式：">
+<!ENTITY customRadio.accessKey "C">
+<!ENTITY optionsMenu.label "オプション">
+<!ENTITY pageTitleMenuitem.label "ページ名">
+<!ENTITY currentURLMenuitem.label "URL">
+<!ENTITY domainNameMenuitem.label "ドメインネーム">
+<!ENTITY brandMenuitem.label "ブランド">
+<!ENTITY palemoonVersionMenuitem.label "Pale Moonのバージョン">
+<!ENTITY palemoonBuildIDMenuitem.label "Pale Moonのビルド番号">
+<!ENTITY platformVersionMenuitem.label "Goannaプラットフォームのバージョン">
+<!ENTITY platformBuildIDMenuitem.label "Goannaプラットフォームのビルド番号">

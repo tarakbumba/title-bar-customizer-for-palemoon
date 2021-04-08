@@ -1,0 +1,9 @@
+content	titlebar	content/ contentaccessible=yes
+locale	titlebar	en-US	locale/en-US/
+locale	titlebar	ja-JP	locale/ja-JP/
+locale	titlebar	pl-PL	locale/pl-PL/
+locale	titlebar	de-DE	locale/de-DE/
+locale	titlebar	ca-AD	locale/ca-AD/
+locale	titlebar	tr-TR	locale/tr-TR/
+skin	titlebar	classic/1.0	skin/
+overlay	chrome://browser/content/browser.xul	chrome://titlebar/content/toolbaroverlay.xul

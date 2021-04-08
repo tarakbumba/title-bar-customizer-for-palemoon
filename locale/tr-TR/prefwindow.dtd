@@ -1,0 +1,23 @@
+<!ENTITY prefwindow.title "Başlık Çubuğu Özelleştirici Seçenekleri">
+<!ENTITY prefpane.label "Genel">
+<!ENTITY chooseFormat.description "Başlık için bir biçim seçin:">
+
+
+<!ENTITY defaultRadio.label "Varsayılan (Sayfa Adı - URL)">
+<!ENTITY defaultRadio.accessKey "D">
+<!ENTITY page-onlyRadio.label "Sadece Sayfa Adı (Sayfa Adı)">
+<!ENTITY page-onlyRadio.accessKey "P">
+<!ENTITY developersRadio.label "Geliştiriciler için (Sayfa Adı - Pale Moon Sürümü - Pale Moon İnşa Numarası - URL)">
+<!ENTITY developersRadio.accessKey "F">
+<!ENTITY customRadio.label "Kişisel Biçim:">
+<!ENTITY customRadio.accessKey "C">
+
+<!ENTITY optionsMenu.label "Seçenekler">
+<!ENTITY pageTitleMenuitem.label "Sayfa Başlığı">
+<!ENTITY currentURLMenuitem.label "Şu anki URL">
+<!ENTITY domainNameMenuitem.label "Alan Adı">
+<!ENTITY brandMenuitem.label "Marka">
+<!ENTITY palemoonVersionMenuitem.label "Pale Moon Sürümü">
+<!ENTITY palemoonBuildIDMenuitem.label "Pale Moon İnşa ID">
+<!ENTITY platformVersionMenuitem.label "Goana Platform Version">
+<!ENTITY platformBuildIDMenuitem.label "Goana Platform Build ID">

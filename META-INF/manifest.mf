@@ -1,0 +1,122 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tlsA9mqMThNYqHvA/qFKDw==
+SHA1-Digest: IUqe7s59S64Tr27BBfwmVJIJK54=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4bNTX6iqOJpeu5ZTpgIS6w==
+SHA1-Digest: gjztndCb7QoF/yGsfG5ICYjNdNY=
+
+Name: License - MPL.txt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BRaWoQDzzUTZSv04I48tHQ==
+SHA1-Digest: I1fGgmtBptGAnE6NFtC3x9krsuw=
+
+Name: Version_History.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EDdyFqY4lX4xQnJOoLtc3w==
+SHA1-Digest: qdSBuw8aG9PCNvcc2mbZVjOyKWI=
+
+Name: content/my-utils.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: D/5w4G4fyV1lM8vcdmweXw==
+SHA1-Digest: OqotOa2kVy5TcReS7TschfcLOY0=
+
+Name: content/options.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tq9HRANIM9KOnQoO8Rba2A==
+SHA1-Digest: nCmB4lG+RAwmHukTo6YShMP1aXg=
+
+Name: content/options.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mPL6rlT/wM5K8c0d5O5Zpw==
+SHA1-Digest: 6o9y6vEbp7X7YyGCuFLbyM8mGs4=
+
+Name: content/toolbar-overlay.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wHhV7Y6AOMUO4B+hcBz2Aw==
+SHA1-Digest: jIE9ekq8Oh4xlFaYWiIrTpQIDZs=
+
+Name: content/toolbaroverlay.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uG8ItkKDBHLl0r8Z3IQ6Jw==
+SHA1-Digest: PhoEiED2v8UwSu9yNSR5NFVv4m8=
+
+Name: content/utils-ubiquity.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SzHVgFJep45otofecE1qKw==
+SHA1-Digest: iQ8qcw8Yt4g0ALf/cgt+eiq97ZY=
+
+Name: defaults/preferences/titlebar.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tQmkA3aGwnRRXwvyId70MQ==
+SHA1-Digest: mKj0UFonslAFXVoKhnXaOJaCaKk=
+
+Name: locale/ca-AD/about.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1BW611oyj8jtMGDadEeh+A==
+SHA1-Digest: +LoXyfx9DrL4uUs2GnyihUJzw90=
+
+Name: locale/ca-AD/prefwindow.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pTzjSQkWxistsmSURo/QQg==
+SHA1-Digest: GqcPTY1xdE4vg4NC9+2elIpHy4Q=
+
+Name: locale/ca-AD/titlebar.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eDWyX29kJRYRIPVKGrAd3A==
+SHA1-Digest: aTJrq/vULaDt+r6T2l0Ebxp+mT8=
+
+Name: locale/ca-AD/titlebar.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1B2M2Y8AsgTpgAmY7PhCfg==
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: locale/de-DE/prefwindow.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fDtsc6Sad1eYX33Xp490hw==
+SHA1-Digest: rlvIATD/mPutdrbWNPQvzVR+Vfs=
+
+Name: locale/de-DE/titlebar.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yxWK4eqb1N9Rctz1TDHEhg==
+SHA1-Digest: uMhEg7F4Aqq/Wb9hiNow6/r4k44=
+
+Name: locale/en-US/prefwindow.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zGVMc1bL9vi0LWxuzj0p5Q==
+SHA1-Digest: 66VmS0LaG+Ow3oFTJP3P7CIU32k=
+
+Name: locale/en-US/titlebar.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ETKF+wYnwp5X8Hokqb2u1A==
+SHA1-Digest: QRz6HiLc5rL2NrqaHkOLmMLkTe4=
+
+Name: locale/ja-JP/prefwindow.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zPOd6exhZOFtw4pdWLwE5w==
+SHA1-Digest: aFeBfuLqZD+qm3uy88qRaX13lh0=
+
+Name: locale/ja-JP/titlebar.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ICkQVevlTVVmOFzbtAT5cQ==
+SHA1-Digest: nu0o4RbTFJVAdg7pCk9QVFP3BPY=
+
+Name: locale/pl-PL/prefwindow.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6tkrKinLztHUHaGxvDlzhg==
+SHA1-Digest: 64AzmIzkkUUQVnmlTZ+VknHubm0=
+
+Name: locale/pl-PL/titlebar.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zTQdDB9kn+ak6oq0ll+HBw==
+SHA1-Digest: CtnjwdWxNAwT35OUg0nuvanpzQI=
+
+Name: skin/toolbaroverlay.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1B2M2Y8AsgTpgAmY7PhCfg==
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+

@@ -1,0 +1,20 @@
+<!ENTITY prefwindow.title "Title Bar Customizer – ustawienia">
+<!ENTITY prefpane.label "Ogólne">
+<!ENTITY chooseFormat.description "Wybierz format tytułu">
+<!ENTITY defaultRadio.label "Domyślny  (Nazwa strony – URL)">
+<!ENTITY defaultRadio.accessKey "D">
+<!ENTITY page-onlyRadio.label "Tylko nazwa strony  (Nazwa strony)">
+<!ENTITY page-onlyRadio.accessKey "S">
+<!ENTITY developersRadio.label "Dla programistów  (Nazwa strony – Wersja Pale Moona – Numer wydania – URL)">
+<!ENTITY developersRadio.accessKey "O">
+<!ENTITY customRadio.label "Własny format:">
+<!ENTITY customRadio.accessKey "W">
+<!ENTITY optionsMenu.label "Opcje">
+<!ENTITY pageTitleMenuitem.label "Tytuł strony">
+<!ENTITY currentURLMenuitem.label "Obecny URL">
+<!ENTITY domainNameMenuitem.label "Nazwa domeny">
+<!ENTITY brandMenuitem.label "Marka">
+<!ENTITY palemoonVersionMenuitem.label "Wersja Pale Moona">
+<!ENTITY palemoonBuildIDMenuitem.label "ID wydania Pale Moona">
+<!ENTITY platformVersionMenuitem.label "Wersja platformy Goanna">
+<!ENTITY platformBuildIDMenuitem.label "ID wydania platformy Goanna">
